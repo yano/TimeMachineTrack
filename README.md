@@ -21,7 +21,6 @@ https://github.com/UnityTechnologies/ATerribleKingdom
 
 Required: Unity 2017.2, or later version
 
-**Owner and Responsible Devs**
+**License**
 
-Owners: Ciro Continisio (ciro@unity3d.com)
-
+MIT
